@@ -1,0 +1,16 @@
+{
+    "short_name": "NapApp",
+    "name": "An App for a Nap",
+    "icons": [
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#CAF0F8",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#023E8A"
+}
