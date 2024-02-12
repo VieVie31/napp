@@ -8,7 +8,7 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "/?source=pwa",
+    "start_url": "https://vievie31.github.io/napp?source=pwa",
     "background_color": "#CAF0F8",
     "display": "standalone",
     "scope": "/",
